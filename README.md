@@ -25,5 +25,5 @@
 
     iface.launch()
     
-# Output
-![Alt text](https://github.com/Mukish45/Automatic-Speech-Recognition/blob/main/Whisper-Hindi-Model.png?raw=true)
+# Deployment
+https://huggingface.co/spaces/mukish45/hindi-ASR
